@@ -4,5 +4,3 @@ I am learning Git and GitHub.
 i want something ....
 
 ffffdhg
-
-git revert 
